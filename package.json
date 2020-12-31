@@ -1,0 +1,23 @@
+{
+  "name": "freshworks-backend",
+  "version": "1.0.0",
+  "description": "Freshworks Backend using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragya2404/Freshworks-Backend-Assignment.git"
+  },
+  "author": "Pragya Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragya2404/Freshworks-Backend-Assignment/issues"
+  },
+  "homepage": "https://github.com/pragya2404/Freshworks-Backend-Assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
